@@ -1,4 +1,11 @@
-### Hi there 👋
+# About Me
+---
+Hi there! My name is Omar Mahdi Rafi. I am to be graduated from BRAC University, Dhaka, Bangladesh within April 2022. I am a JS developer. 
+
+## Stacks
+
+## Contact Me
+
 
 <!--
 **Omar-Mahdi-Rafi/Omar-Mahdi-Rafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
