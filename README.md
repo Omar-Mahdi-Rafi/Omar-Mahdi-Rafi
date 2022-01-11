@@ -1,5 +1,5 @@
 ## <h1 align="center">Hi 👋, this is Omar Mahdi Rafi</h1>
-<h3 align="center">Problem solving | Web Development | Web Design</h3>
+<h3 align="center">Programmer | Web Developer | Web Designer</h3>
 
 
 <br>
