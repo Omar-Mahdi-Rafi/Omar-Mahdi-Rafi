@@ -1,44 +1,41 @@
-<h1 align="center">Hi 👋, this is Omar Mahdi Rafi</h1>
-<h3 align="center">Currently pursuing my Bachelor's Degree on Computer Science Student at BRAC University, Dhaka 🌟 | Problem solving | Web Development | Learning technology stacks</h3>
+## <h1 align="center">Hi 👋, this is Omar Mahdi Rafi</h1>
+<h3 align="center">Problem solving | Web Development | Web Design</h3>
+
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=Omar-Mahdi-Rafi&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Omar-Mahdi-Rafi" /> 
+<p align="left"> <h3 align="center">Profile Views :</h3> <img align="center" src="https://komarev.com/ghpvc/?username=Omar-Mahdi-Rafi&label=Profile%20views&color=0e75b6&style=flat" alt="Omar-Mahdi-Rafi"/> 
   </p>
 
 <br>
 
-<p><img align="right" src="https://github.com/Omar-Mahdi-Rafi/Omar-Mahdi-Rafi/blob/main/animation_500_kxa883sd.gif" alt="Omar-Mahdi-Rafi" /></p>
+<p><img align="right" src="https://github.com/Omar-Mahdi-Rafi/Omar-Mahdi-Rafi/blob/9516c7295ddc916c4b3eb1a36fd97fb21bfcf234/8b35fef55fba1a201c9c7a11d3ec3d64.gif" alt="Omar-Mahdi-Rafi" width=40%/></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+🌱 I’m currently focusing on problem solving and landing a full stack web app development project
 
-- 📫 How to reach me **omar.mahdi.rafi@g.bracu.ac.bd**
+📫 Reach me right now, mail me @ **omar.mahdi.rafi@g.bracu.ac.bd**
 
-- ⚡ Fun fact :- 
+👯 I’m looking to collaborate on any full stack (MERN) project 
 
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/omar-mahdi/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Omar Mahdi Rafi" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/omar.mahdi.96995/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="Omar Mahdi Rafi" height="30" width="40" /></a>
-  <a href="https://instagram.com/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Omar Mahdi Rafi" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/omar_mahdi_rafi" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="Omar Mahdi Rafi" height="30" width="40" /></a>
-</p>
+💬 Ask me about Sql, JavaScript
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<br>
+
+<br>
+
+<br>
+
+## About Me
+I'm 24 years old. I'm currently pursuing my Bachelor's Degree on Computer Science at BRAC University, Dhaka 🌟. I believe in learning and adapting because the tech industry is everchanging, and I'm 100% up to adapt with this process while picking new technologies.
+
+I basically am a JS developer. I'm trying to grow more by enhancing my problem solving skillset. I am always on the lookout for new projects to work on and new people to collaborate with. Do check out my repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project.
+
+<br> 
+
+## Stacks & Tools
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
       alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -83,15 +80,24 @@
       height="40" /> </a> </p>
 
 <br>
----
-
-# About Me
----
-Hi there! My name is Omar Mahdi Rafi. I am to be graduated from BRAC University, Dhaka, Bangladesh within April 2022. I am a JS developer. 
-
-## Stacks
 
 ## Contact Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/omar-mahdi/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="Omar Mahdi Rafi" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/omar.mahdi.96995/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="Omar Mahdi Rafi" height="30" width="40" /></a>
+  <a href="https://instagram.com/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="Omar Mahdi Rafi" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/omar_mahdi_rafi" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+      alt="Omar Mahdi Rafi" height="30" width="40" /></a>
+</p>
+
+<br>
 
 ## My Github statistics 🚀
 ![Omar-Mahdi-Rafi's github stats](https://github-readme-stats.vercel.app/api?username=Omar-Mahdi-Rafi&show_icons=true&theme=tokyonight)
