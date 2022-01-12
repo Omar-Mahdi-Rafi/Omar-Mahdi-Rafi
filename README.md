@@ -31,7 +31,7 @@
 <br>
 
 ## About Me
-I'm 24 years old. I'm currently pursuing my Bachelor's Degree on Computer Science at BRAC University, Dhaka 🌟. I believe in learning and adapting with new technologies because the tech industry is everchanging, and I'm 100% accepting to this process.
+I'm a 24 years old programmer hailing from Dhaka, Bangladesh. I'm currently pursuing my Bachelor's Degree on Computer Science at BRAC University, Dhaka 🌟. I believe in exploring and adapting to new technologies because the tech industry is everchanging, and I'm 100% accepting to this process.
 
 I am basically a JS developer. I'm trying to grow more by enhancing my problem solving skillset. I am always on the lookout for new projects to work on and new people to collaborate with. Do check out my repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project.
 
