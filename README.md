@@ -97,4 +97,10 @@ I am basically a JS developer. I'm trying to grow more by enhancing my problem s
 ![Omar-Mahdi-Rafi's github stats](https://github-readme-stats.vercel.app/api?username=Omar-Mahdi-Rafi&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-Mahdi-Rafi&theme=tokyonight" alt="mystreak"/>
 ![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Mahdi-Rafi&theme=tokyonight&layout=compact)
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
+    rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+      alt="cplusplus" width="40" height="40" /> </a>
 
