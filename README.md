@@ -16,7 +16,7 @@
 
 🌱 I’m currently focusing on problem solving and landing a full stack web development project
 
-👯 I’m looking to collaborate on any full stack (MERN) project 
+👯 I’m looking to collaborate on any full stack project (MERN)
 
 💬 Ask me about JavaScript, Front End Techs, Sql DBMS or Web Designing tools
 
