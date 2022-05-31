@@ -11,7 +11,7 @@
 
 ## At A Glance 
 
-<p align="center"><img align="left" src="https://github.com/Omar-Mahdi-Rafi/Omar-Mahdi-Rafi/blob/9516c7295ddc916c4b3eb1a36fd97fb21bfcf234/8b35fef55fba1a201c9c7a11d3ec3d64.gif" alt="Omar-Mahdi-Rafi" width=40%/>
+<p dir="rtl"><img align="left" src="https://github.com/Omar-Mahdi-Rafi/Omar-Mahdi-Rafi/blob/9516c7295ddc916c4b3eb1a36fd97fb21bfcf234/8b35fef55fba1a201c9c7a11d3ec3d64.gif" alt="Omar-Mahdi-Rafi" width=40%/>
 </p>
 
 🌱 I’m currently focusing on problem solving and landing a full stack web development project 
