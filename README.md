@@ -11,7 +11,7 @@
 
 ## At A Glance 
 
-<p align="center"><img align="center" src="https://github.com/Omar-Mahdi-Rafi/Omar-Mahdi-Rafi/blob/9516c7295ddc916c4b3eb1a36fd97fb21bfcf234/8b35fef55fba1a201c9c7a11d3ec3d64.gif" alt="Omar-Mahdi-Rafi" width=40% height=40%/>
+<p align="left"><img align="left" src="https://github.com/Omar-Mahdi-Rafi/Omar-Mahdi-Rafi/blob/9516c7295ddc916c4b3eb1a36fd97fb21bfcf234/8b35fef55fba1a201c9c7a11d3ec3d64.gif" alt="Omar-Mahdi-Rafi" width=40% height=40%/>
 </p>
 
 <p>
@@ -31,6 +31,7 @@
 
 <br>
 </p>
+
 ## About Me
 I'm a 24 years old programmer hailing from Dhaka, Bangladesh. I'm currently pursuing my Bachelor's Degree on Computer Science at BRAC University, Dhaka 🌟. I believe in exploring and adapting to new technologies because the tech industry is everchanging, and I'm 100% accepting to this process.
 
