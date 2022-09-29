@@ -1,10 +1,10 @@
 ## <h1 align="center">Hi 👋, this is Omar Mahdi Rafi</h1>
-<h3 align="center">Programmer | Web Developer | Web Designer</h3>
+<h3 align="center">Software Developer | UI Designer</h3>
 
 
 <br>
 
-<p align="right"> <h3 align="right">Profile Views :</h3> <img align="center" src="https://komarev.com/ghpvc/?username=Omar-Mahdi-Rafi&label=Profile%20views&color=0e75b6&style=flat" alt="Omar-Mahdi-Rafi"/> 
+<p align="left"> <h3 align="left">Profile Views :</h3> <img align="center" src="https://komarev.com/ghpvc/?username=Omar-Mahdi-Rafi&label=Profile%20views&color=0e75b6&style=flat" alt="Omar-Mahdi-Rafi"/> 
   </p>
 
 <br>
@@ -17,9 +17,9 @@
 <p>
 🌱 I’m currently focusing on problem solving and landing a full stack web development project 
 
-👯 I’m looking to collaborate on any full stack project (MERN) 
+👯 I’m looking to collaborate on the serverside of any real world webapp development project  
 
-💬 Ask me about JavaScript, Front End Techs, Sql DBMS or Web Designing tools 
+💬 Ask me about JavaScript, Java, Sql DBMS or Web Designing tools 
 
 📫 Just in case you wanted to reach me right now, mail me @ **omar.mahdi.rafi@g.bracu.ac.bd** 
 
@@ -33,9 +33,9 @@
 </p>
 
 ## About Me
-I'm a 24 years old programmer hailing from Dhaka, Bangladesh. I'm currently pursuing my Bachelor's Degree on Computer Science at BRAC University, Dhaka 🌟. I believe in exploring and adapting to new technologies because the tech industry is everchanging, and I'm 100% accepting to this process.
+I'm a 25 years old programmer hailing from Dhaka, Bangladesh. I've completed my Bachelor's Degree on Computer Science at BRAC University, Dhaka 🌟. I believe in exploring and adapting to new technologies because the tech industry is everchanging, and I'm 100% accepting to this process.
 
-I am basically a JS developer. I'm trying to grow more by enhancing my problem solving skillset mainly working on DSA to improve my grips on Competitive Programming. Besides, I am always on the lookout for new projects to work on and new people to collaborate with. Do check out my repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project.
+I am basically a web developer with keen interest on Back-end development. I'm trying to grow more by enhancing my problem solving skillset mainly working on DSA to improve my grips on Competitive Programming. The current language that I'm focusing on is Java and its Springboot framework. Besides, I am always on the lookout for new projects to work on and new people to collaborate with. Do check out my repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project.
 
 <br> 
 
