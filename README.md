@@ -1,5 +1,5 @@
 ## <h1 align="center">Hi 👋, this is Omar Mahdi Rafi</h1>
-<h3 align="center">Software Developer | UI Designer</h3>
+<h3 align="center">Software Developer | Java EE | RDBMS</h3>
 
 
 <br>
